@@ -95,3 +95,8 @@ pla_uid_login_password: ~
 pla_unique_attributes: [mail, uid, uidNumber]
 pla_unique_login_id: ~
 pla_unique_login_password: ~
+
+#
+# Custom
+#
+pla_custom_config: ~
